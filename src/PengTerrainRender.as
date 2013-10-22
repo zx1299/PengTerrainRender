@@ -6,7 +6,7 @@ package
 	{
 		public function PengTerrainRender()
 		{
-			
+			trace("PengTerrainRender");
 		}
 	}
 }
